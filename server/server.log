@@ -1,0 +1,9 @@
+🚀 Server running on http://localhost:3001
+📊 Database initialized and ready
+🔐 API endpoints:
+   - POST /api/auth/register
+   - POST /api/auth/login
+   - GET  /api/products
+   - GET  /api/orders/my-orders
+   - GET  /api/settings/payment-details
+   - GET  /api/health
